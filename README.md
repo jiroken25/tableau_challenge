@@ -18,6 +18,5 @@ https://s3.amazonaws.com/tripdata/index.html
 * With distance and duration, calculated average speed of each trip
 
 ## Visualization
-Refer to actual Tableau workbook
-
+https://public.tableau.com/profile/kenjiro.hirota#!/vizhome/citibike_dashboard/Story1?publish=yes
 
